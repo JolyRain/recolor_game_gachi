@@ -1,0 +1,10 @@
+sum = -30
+RED = (245, 90 + sum, 80 + sum)
+ORANGE = (240, 180 + sum, 80 + sum)
+BLUE = (80 + sum, 80 + sum, 160)
+AQUA = (90 + sum, 170 + sum, 200)
+GREEN = (75 + sum, 190, 90 + sum)
+YELLOW = (250, 255, 95 + sum)
+COLORS = [RED, YELLOW, ORANGE, BLUE, GREEN, YELLOW]
+TILE_SIZE = 30
+BUTTON_SIZE = 80
